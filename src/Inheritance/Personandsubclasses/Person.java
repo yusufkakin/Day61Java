@@ -1,4 +1,4 @@
-package Personandsubclasses;
+package Inheritance.Personandsubclasses;
 
 public class Person {
 

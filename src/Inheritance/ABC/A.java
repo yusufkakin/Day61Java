@@ -1,4 +1,4 @@
-package ABC;
+package Inheritance.ABC;
 
 public class A {
     public void a(){

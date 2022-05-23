@@ -1,4 +1,4 @@
-package Personandsubclasses;
+package Inheritance.Personandsubclasses;
 
 public class Teacher extends Person{
      int salary = 0;

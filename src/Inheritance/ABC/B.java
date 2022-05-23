@@ -1,6 +1,5 @@
-package ABC;
+package Inheritance.ABC;
 
-import ABC.A;
 
 public class B extends A {
     public void b(){

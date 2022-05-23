@@ -1,4 +1,4 @@
-package Personandsubclasses;
+package Inheritance.Personandsubclasses;
 
 import java.util.ArrayList;
 
